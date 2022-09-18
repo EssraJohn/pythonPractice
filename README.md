@@ -2,7 +2,7 @@
 This repository contains Python program examples from basics.
 As a beginner I followed the 9 basics of programming language and they are:
 1. Input and output statements 
-2. Control statements 
+2. Control flow statements 
  i.if else stmt
  ii.switch stmt
 3. Iterative statement 
