@@ -1,7 +1,7 @@
 # pythonPractice
 This repository contains Python program examples from basics.
 As a beginner I followed the 9 basics of programming language and they are:
-1. Input and output statements \n
+1. Input and output statements 
 2. Control statements 
  i.if else stmt
  ii.switch stmt
