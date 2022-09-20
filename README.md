@@ -7,8 +7,7 @@ As a beginner I followed the 9 basics of programming language, and they are:
  ii. switch stmt
 3. Iterative statement 
  i. for loop
- ii. do-while loop
- iii. while loop
+ ii. while loop
 4. Arrays
  i. single dimensional
  ii. multi dimensional

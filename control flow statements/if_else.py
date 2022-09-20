@@ -6,3 +6,11 @@ if per >= 60:
 # if percentage is less than 60
 else:
     print("Sorry, you are not eligible")
+
+# statement_when_True if condition else statement_when_False
+"""
+# Python program to illustrate short hand if-else
+i = 10
+print(True) if i < 15 else print(False)
+
+"""
