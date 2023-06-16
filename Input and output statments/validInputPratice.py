@@ -9,3 +9,4 @@ while True:
 print("Your name is:", name)
 print("Your age is:", age)
 # For valid float, just change int to float and float takes both int and float values as input
+
