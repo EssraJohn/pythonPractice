@@ -38,4 +38,4 @@ print("Elements in the list are", listElements, "after clearing")
 
 # type
 print(type(listElements))
-
+help(tuple)
