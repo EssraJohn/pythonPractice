@@ -7,4 +7,6 @@ print(num1 ^ num2)
 print(num1 << 1)
 print(2 ** 4)
 print(num2 >> 1)
+print("one's complement", ~num1)
+
 
